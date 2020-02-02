@@ -1,6 +1,8 @@
 
 # Welcome to Brandon’s Pandas Tutorial
 
+Hi everyone, my name is Milan :)
+
 The first instance of this tutorial was delivered at PyCon 2015 in
 Montréal, but I hope that many other people will be able to benefit from
 it over the next few years — both on occasions on which I myself get to
